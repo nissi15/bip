@@ -41,7 +41,7 @@
 
 
  .channels {
-    margin: 14rem 0;
+    margin: 10rem 0;
    
  }
 
@@ -133,4 +133,93 @@
     right: 32.5rem;
     height: 20rem;
     width: 9.5rem;
+}
+
+
+.service {
+    margin-top: 14rem;
+    background: #00A4DE;
+}
+
+.service-des h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+    font-weight: 600;
+    color: white;
+    /* padding-top: 2rem; */
+    margin: auto;
+    width: 26rem;
+    line-height: 3rem;
+}
+.service-des h1:nth-of-type(1){
+    padding-top: 2rem; 
+    margin-top: 2rem;
+}
+
+.service-des p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: auto;
+    width: 25rem;
+}
+
+.service-des p:nth-last-of-type(2) {
+    padding-top: 1rem;
+}
+
+.service-dp {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.service-dp h3 {
+    font-size: 16px;
+    color: white;
+}
+
+.service-dp p {
+    font-size: 13px;
+    padding-top: 0.2rem;
+    color: white;
+    width: 13rem;
+}
+
+.dp-1 {
+    margin-top: 20rem;
+}
+
+.dp-2 {
+    margin-top: 4rem;
+    margin-left: -2rem;
+}
+
+.dp-3 {
+    margin-top: 11rem;
+    margin-left: 2rem;
+}
+
+.main {
+    position: absolute; 
+    width: 21rem;
+    height: 9rem;
+    bottom: -36rem;
+    right: 13rem;
+}
+
+.long {
+    position: absolute;
+    width: 27rem;
+    right: 6rem;
+    bottom: -52rem;
+}
+
+.color {
+    position: absolute; 
+    width: 24rem;
+    height: 8rem;
+    bottom: -53rem;
+    left: 9rem;
 }
