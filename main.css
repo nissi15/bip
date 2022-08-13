@@ -141,6 +141,8 @@
     background: #00A4DE;
 }
 
+
+
 .service-des h1 {
     display: flex;
     justify-content: center;
@@ -338,11 +340,12 @@
  }
 
 .footer {
-    margin-right: 3rem;
+    margin-right: 4rem;
 }
 
 .footer-logo img {
     margin-left: 1.5rem;
+    margin-top: 0.5rem;
 }
 
 .bottom {
