@@ -41,7 +41,7 @@
 
 
  .channels {
-    margin-top: 6rem;
+    margin: 14rem 0;
    
  }
 
@@ -59,11 +59,11 @@
     color: #4D4D4D;
     height: 12rem;
     line-height: 2.7rem;
- }
+}
 
 .channels p {
      font-size: 13px;
- }
+}
 
 .channels button {
     background: #00A4DE;
@@ -74,12 +74,63 @@
     font-size: 12px;
     padding: 3px 10px;
     margin: 1.5rem 0;
- }
+}
 
- .channels-img img1 {
+
+ .img1 {
     position: absolute;
-    top: 0;
+    top: 6rem;
     right: 0;
+    height: 18rem;
+    width: 8rem;
+}
 
- }
+.img2 {
+    position: absolute;
+    bottom: 3rem;
+    right: 9.5rem;
+    height: 19rem;
+    width: 10rem;
+}
 
+.img3{
+    position: absolute;
+    top: 6rem;
+    right: 20rem;
+    height: 20rem;
+    width: 12rem;
+    
+}
+
+.img4 {
+    position: absolute;
+    bottom: -5.5rem;
+    right: 0;
+    height: 18rem;
+    width: 9rem;
+}
+
+.img5 {
+    position: absolute;
+    bottom: -5rem;
+    right: 20rem;
+    height: 17rem;
+    width: 9.7rem;
+}
+
+.img6 {
+    position: absolute;
+    bottom: -17rem;
+    right: 9.5rem;
+    height: 19rem;
+    width: 10rem;
+    background: transparent;
+}
+
+.img7 {
+    position: absolute;
+    bottom: 3rem;
+    right: 32.5rem;
+    height: 20rem;
+    width: 9.5rem;
+}
